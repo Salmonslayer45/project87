@@ -26,34 +26,34 @@ with 40 as radius, 0 startAngle and 2 * Math.PI endAngle.
 ctx.beginpath();
 ctx.strokeStyle = "blue";
 ctx.lineWidth = 5;
-ctx.arc(x = 150, y = 143, r, startAngle, endAngle);
+ctx.arc()(x = 150, y = 143, r, startAngle, endAngle);
 ctx.stroke();
 
 
 ctx.beginpath();
 ctx.strokeStyle = "black";
 ctx.lineWidth = 5;
-ctx.arc(x = 350, y = 210, r, startAngle, endAngle);
+ctx.arc()(x = 350, y = 210, r, startAngle, endAngle);
 ctx.stroke();
 
 
 ctx.beginpath();
 ctx.strokeStyle = "red";
 ctx.lineWidth = 5;
-ctx.arc(x = 210, y = 40, r, startAngle, endAngle);
+ctx.arc()(x = 210, y = 40, r, startAngle, endAngle);
 ctx.stroke();
 
 
 ctx.beginpath();
 ctx.strokeStyle = "orange";
 ctx.lineWidth = 5;
-ctx.arc(x = 300, y = 250, r, startAngle, endAngle);
+ctx.arc()(x = 300, y = 250, r, startAngle, endAngle);
 ctx.stroke();
 
 ctx.beginpath();
 ctx.strokeStyle = "green";
 ctx.lineWidth = 5;
-ctx.arc(x = 400, y = 250, r, startAngle, endAngle);
+ctx.arc()(x = 400, y = 250, r, startAngle, endAngle);
 ctx.stroke();
 
 
